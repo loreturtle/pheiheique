@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uekathura.ziranri.cn/sitemap.xml
